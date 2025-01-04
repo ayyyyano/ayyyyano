@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3 align="left">联系我:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://space.bilibili.com/501335897" target="blank"><img align="center" src="https://ayyyyano.github.io/bilibili.svg" alt="" height="30" width="30" /></a>
 <a href="https://www.coolapk.com/u/2529353" target="blank"><img align="center" src="https://ayyyyano.github.io/coolapk.svg" alt="" height="30" width="30" /></a>
-<a href="mailto:lovestu44@gmail.com" target="blank"><img align="center" src="" alt="https://ayyyyano.github.io/mail.svg" height="30" width="30" /></a>
-<a href="https://github.com/ayyyyano/" target="blank"><img align="center" src="https://ayyyyano.github.io/github.svg" alt="" height="30" width="30" /></a>
 </p>
