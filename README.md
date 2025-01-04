@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <a href="https://www.coolapk.com/u/2529353" target="blank"><img align="center" src="https://ayyyyano.github.io/coolapk.svg" alt="" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">README:</h3>
+<h3 align="left">Test:</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
