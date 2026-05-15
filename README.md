@@ -1,6 +1,6 @@
 <h2 align="center">大家好啊◝(⑅•ᴗ•⑅)◜..° 👋</h2>
-<h4 align="center">我是Ayyyyano，一个平平无奇的高中生。</h4>
-<h4 align="center">主成分: 东方/音MAD/术力口 (?)</h4>
+<h4 align="center">我是 Ayano ，一个平平无奇的高中生。</h4>
+<h4 align="center">Star 或 Follow 表示我认可你的项目~ </h4>
 
 ### 🔭 目前正在维护的 
 > 已沉迷啤酒烧烤，后续大概率不会积极维护，随时存在删档风险。
