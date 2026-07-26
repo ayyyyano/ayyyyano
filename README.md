@@ -9,7 +9,7 @@
 
 > Exploring the world between users and systems.
 
-I'm a 17-year-old student interested in:
+I'm a 18-year-old student interested in:
 
 - Android ecosystem & customization
 - Web development
