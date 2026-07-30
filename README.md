@@ -9,7 +9,7 @@
 
 > Exploring the world between users and systems.
 
-I'm a 18-year-old student interested in:
+A 18-year-old student, interested in:
 
 - Android ecosystem & customization
 - Web development
@@ -22,12 +22,8 @@ I enjoy understanding how things work, improving the tools I use, and turning id
 ## 🌱 Currently exploring
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,py,html,css,js,cloudflare,git,linux,md,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,py,cloudflare,linux,vscode" />
 </a>
-
-<!--
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
--->
 
 ## 📫 Contact me
 
