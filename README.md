@@ -35,6 +35,3 @@ I enjoy understanding how things work, improving the tools I use, and turning id
   <img alt="Ayano's GitHub Stats" width=50%" src="https://ghstats.nekro.top/api?username=ayyyyano&show_icons=true&theme=nord&bg_color=000000&border_color=333333&rank_icon=github&include_all_commits=true&custom_title=Ayano%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed">
   <img alt="Top Languages" width="48%" src="https://ghstats.nekro.top/api/top-langs?username=ayyyyano&show_icons=true&theme=nord&bg_color=000000&border_color=333333&rank_icon=github&layout=compact">
 </div>
-<div align="center">
-  <img alt="GitHub Find Card" width="98%" src="https://ghfind.com/api/card/mini/ayyyyano?theme=dark&lang=zh">
-</div>
